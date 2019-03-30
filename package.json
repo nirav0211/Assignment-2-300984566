@@ -28,7 +28,7 @@
   },
   "description": "Mongo and Mongoose Demo",
   "main": "server.js",
-  "author": "Tom Tsiliopoulos",
+  "author": "Nirav",
   "license": "ISC",
   "devDependencies": {
     "@types/body-parser": "^1.17.0",
