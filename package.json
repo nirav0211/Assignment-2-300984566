@@ -1,5 +1,5 @@
 {
-  "name": "comp308-w2019-lesson10b",
+  "name": "assignment-2-300984566",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -48,10 +48,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CentennialCollege/COMP308-W2019-Lesson10B.git"
+    "url": "git+https://github.com/nirav0211/Assignment-2-300984566.git"
   },
   "bugs": {
-    "url": "https://github.com/CentennialCollege/COMP308-W2019-Lesson10B/issues"
+    "url": "https://github.com/nirav0211/Assignment-2-300984566/issues"
   },
-  "homepage": "https://github.com/CentennialCollege/COMP308-W2019-Lesson10B#readme"
+  "homepage": "https://github.com/nirav0211/Assignment-2-300984566#readme"
 }

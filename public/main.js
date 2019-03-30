@@ -661,7 +661,7 @@ module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<app-base-page></app-base-page>>\n"
+module.exports = "<app-base-page></app-base-page>>\n<div>\n    <div class=\"container\">\n        <img src=\"assets/img/pp.jpg\" style=\"width:90px\">\n        <p><span>Nirav Pandya.</span> .Net Developer</p>\n        <p><li>Masters Degree in Information Technology</li></p>\n        <p><li>2 years of experience in .Net development</li></p>\n        <p><a href=\"https://drive.google.com/open?id=13sqdeA50RYlrVic8q36j-zifJN_bP3Un\" target=\"_blank\">Resume</a></p>\n      </div>\n      \n</div>\n"
 
 /***/ }),
 
@@ -793,7 +793,7 @@ module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<app-base-page></app-base-page>\n"
+module.exports = "<app-base-page></app-base-page><div style=\"text-align:center\">\n    <h1>\n      Welcome to My Profile!\n    </h1>\n\n    <p>Welcome to the world of Developer !!!</p>\n   <!-- <img width=\"300\" alt=\"Angular Logo\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==\">-->\n  </div>\n"
 
 /***/ }),
 
