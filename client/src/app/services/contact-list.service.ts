@@ -15,7 +15,7 @@ export class ContactListService {
 
   private endpoint = 'https://comp308-300984566-assignment2.herokuapp.com/api/contact-list/';
 
- // private endpoint = 'http://localhost:3000/api/contact-list/';
+  //private endpoint = 'http://localhost:3000/api/contact-list/';
 
   private httpOptions = {
     headers: new HttpHeaders({
